@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "name": "Monstera deliciosa",
+    "unitPrice": 20,
+    "imageUrl": "images/thumb-monstera.png",
+    "tags": ["Swiss cheese plant", "Indoor", "Low maintenance", "Plant"],
+    "soldOut": false
+  },
+  {
+    "id": 2,
+    "name": "Pothos",
+    "unitPrice": 12,
+    "imageUrl": "images/thumb-pothos.png",
+    "tags": [
+      "Devi's ivy",
+      "Epipremnum aureum",
+      "Indoor",
+      "Easy Care",
+      "Beginner",
+      "Plant"
+    ],
+    "soldOut": true
+  },
+  {
+    "id": 3,
+    "name": "Spider plant",
+    "unitPrice": 8,
+    "imageUrl": "images/thumb-spiderplant.png",
+    "tags": ["Chlorophytum Comosum", "Air Purifying", "Hanging Plant", "Plant"],
+    "soldOut": false
+  },
+  {
+    "id": 4,
+    "name": "Purple spiderwort",
+    "unitPrice": 16,
+    "imageUrl": "images/thumb-spiderwort.png",
+    "tags": [
+      "Tradescantia Pallida",
+      "Wandering Jew",
+      "Purple Heart Plant",
+      "Easy Care",
+      "Plant"
+    ],
+    "soldOut": false
+  },
+  {
+    "id": 5,
+    "name": "Rubber tree",
+    "unitPrice": 18,
+    "imageUrl": "images/thumb-ficus.png",
+    "tags": ["Ficus elastica", "Indoor Trees", "Low Maintenance", "Plant"],
+    "soldOut": false
+  },
+  {
+    "id": 6,
+    "name": "Snake plant",
+    "unitPrice": 10,
+    "imageUrl": "images/thumb-snakeplant.png",
+    "tags": ["Indoor", "Low Maintenance", "Devil's Tongue", "Plant"],
+    "soldOut": false
+  },
+  {
+    "id": 7,
+    "name": "Ghost pepper seeds",
+    "unitPrice": 8,
+    "imageUrl": "images/thumb-ghost.png",
+    "tags": ["Bhut Jolokia", "Hot", "Fruit", "Seeds"],
+    "soldOut": false
+  },
+  {
+    "id": 8,
+    "name": "Plastic Pots",
+    "unitPrice": 11,
+    "imageUrl": "images/thumb-plastic-pots.png",
+    "tags": ["Pot", "Accessories"],
+    "soldOut": false
+  },
+  {
+    "id": 9,
+    "name": "Aloe Vera",
+    "unitPrice": 9,
+    "imageUrl": "images/thumb-aloe.png",
+    "tags": ["Plant", "Succulent", "Indoor", "Easy", "Medicinal"],
+    "soldOut": false
+  },
+  {
+    "id": 10,
+    "name": "Flora series fertilizer",
+    "unitPrice": 25,
+    "imageUrl": "images/thumb-plant-food.png",
+    "tags": [
+      "Hydroponics",
+      "Flora Gro",
+      "Flora Micro",
+      "Flora Bloom",
+      "Fertilizer"
+    ],
+    "soldOut": false
+  },
+  {
+    "id": 11,
+    "name": "Fungus nat trap",
+    "unitPrice": 6,
+    "imageUrl": "images/thumb-gnat-sticky.png",
+    "tags": ["Accessories", "Sticky trap", "Fruit fly", "Non-Toxic"],
+    "soldOut": false
+  }
+]
